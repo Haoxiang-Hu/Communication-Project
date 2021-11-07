@@ -1,0 +1,6 @@
+Project Details	Start Date	End Date
+Requirements document draft and phase 1 check in	June 9, 2021	June 16, 2021
+Client meeting	                                    June 21, 2021	June 21, 2021
+Updated Requirements and design document	        June 21, 2021	June 22, 2021
+Schedule document	                                June 23, 2021	June 23, 2021
+Phase 2 check in 		                                            June 23, 2021
